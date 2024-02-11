@@ -1,6 +1,6 @@
 # To start :
 open Terminal and type :
-npm run start
+npm run dev
 
 # URLs
 - http://127.0.0.1:2000/ or localhost:2000/
